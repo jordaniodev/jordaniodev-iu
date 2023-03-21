@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@ignite-ui/react'
+import { Heading, HeadingProps } from '@jordanio-ignite-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

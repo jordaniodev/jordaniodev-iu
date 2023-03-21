@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@jordanio-ignite-iu/tokens",
   "version": "1.0.0",
   "description": "Tokens",
   "main": "./dist/index.js",
@@ -15,7 +15,7 @@
   "devDependencies": {
     "tsup": "^6.6.3",
     "typescript": "^4.9.5",
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*"
+    "@jordanio-ignite-iu/ts-config": "*",
+    "@jordanio-ignite-iu/eslint-config": "*"
   }
 }
