@@ -27,7 +27,7 @@ export default {
       control: {
         type: 'boolean',
       },
-      defaultValue: false
+      defaultValue: false,
     },
     onClick: {
       action: 'click',
