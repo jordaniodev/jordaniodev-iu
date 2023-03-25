@@ -1,0 +1,2 @@
+import{e as o,T as r,a as e}from"./index.fa62bf05.js";import{j as t}from"./jsx-runtime.7f785e82.js";import"./index.91b7e0d9.js";import"./iframe.a57d5d3d.js";import"./index.3ec01933.js";const m={title:"Alerts/ToolTip",component:o,args:{children:t(r,{children:"Lorem Ipsum dolor sit atmet"}),trigger:t(e,{children:"Teste"})},argTypes:{side:{options:["top","right","bottom","left"],control:{type:"select"},defaultValue:"top"}}},n={},T=["Primary"];export{n as Primary,T as __namedExportsOrder,m as default};
+//# sourceMappingURL=ToolTip.stories.307c92fd.js.map
