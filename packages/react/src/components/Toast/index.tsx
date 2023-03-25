@@ -6,7 +6,7 @@ import {
   ToastContainerCustom,
   ToastContent,
   ToastDescription,
-  ToastTitle
+  ToastTitle,
 } from './style'
 
 interface ShowToastProps {
