@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@jordanio-iu/react'
+import { Text, TextProps } from '@jordaniodev-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

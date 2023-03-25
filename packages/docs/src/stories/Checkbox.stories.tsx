@@ -1,4 +1,4 @@
-import { Box, Checkbox, CheckboxProps, Text } from '@jordanio-iu/react'
+import { Box, Checkbox, CheckboxProps, Text } from '@jordaniodev-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

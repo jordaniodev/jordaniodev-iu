@@ -1,4 +1,4 @@
-import { Box, Text, TextInput, TextInputProps } from '@jordanio-iu/react'
+import { Box, Text, TextInput, TextInputProps } from '@jordaniodev-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

@@ -1,4 +1,4 @@
-import { Button, showToast, Toast, ToastProps } from '@jordanio-iu/react'
+import { Button, showToast, Toast, ToastProps } from '@jordaniodev-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 const argsComponent: ToastProps = {

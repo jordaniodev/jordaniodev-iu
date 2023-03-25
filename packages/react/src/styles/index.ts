@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space
-} from '@jordanio-iu/tokens'
+} from '@jordaniodev-iu/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

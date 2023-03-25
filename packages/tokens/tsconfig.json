@@ -1,4 +1,4 @@
 {
-  "extends": "@jordanio-iu/ts-config/base.json",
+  "extends": "@jordaniodev-iu/ts-config/base.json",
   "include": ["src"]
 }

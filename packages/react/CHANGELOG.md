@@ -1,4 +1,4 @@
-# @jordanio-iu/react
+# @jordaniodev-iu/react
 
 ## 2.1.0
 

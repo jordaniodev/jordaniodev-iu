@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@jordanio-iu/react'
+import { Heading, HeadingProps } from '@jordaniodev-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

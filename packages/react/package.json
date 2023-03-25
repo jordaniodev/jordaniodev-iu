@@ -1,5 +1,5 @@
 {
-  "name": "@jordanio-iu/react",
+  "name": "@jordaniodev-iu/react",
   "version": "2.1.0",
   "description": "",
   "main": "./dist/index.js",
@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@jordanio-iu/eslint-config": "*",
-    "@jordanio-iu/tokens": "*",
-    "@jordanio-iu/ts-config": "*",
+    "@jordaniodev-iu/eslint-config": "*",
+    "@jordaniodev-iu/tokens": "*",
+    "@jordaniodev-iu/ts-config": "*",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",

@@ -1,4 +1,4 @@
-# @jordanio-iu/tokens
+# @jordaniodev-iu/tokens
 
 ## 1.1.0
 

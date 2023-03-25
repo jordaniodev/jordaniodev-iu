@@ -1,4 +1,4 @@
-import { colors } from '@jordanio-iu/tokens'
+import { colors } from '@jordaniodev-iu/tokens'
 import { getContrast } from 'polished'
 export function ColorsGrid() {
   return Object.entries(colors).map(([key, color]) => {
