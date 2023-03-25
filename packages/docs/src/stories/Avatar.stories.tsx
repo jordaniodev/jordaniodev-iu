@@ -1,11 +1,11 @@
-import { Avatar, AvatarProps } from '@jordanio-ignite-iu/react'
+import { Avatar, AvatarProps } from '@jordanio-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
   title: 'Data display/Avatar',
   component: Avatar,
   args: {
-    src: 'https://github.com/jordanio-ignite-iu.png',
+    src: 'https://github.com/jordanio-iu.png',
     alt: 'Jordanio Dev',
   },
   argTypes: {

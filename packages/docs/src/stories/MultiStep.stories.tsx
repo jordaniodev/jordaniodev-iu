@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from '@jordanio-ignite-iu/react'
+import { Box, MultiStep, MultiStepProps } from '@jordanio-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

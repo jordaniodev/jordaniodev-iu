@@ -1,5 +1,5 @@
 
-> @jordanio-ignite-iu/tokens@1.0.0 build
+> @jordanio-iu/tokens@1.0.0 build
 > tsup src/index.ts --format esm,cjs --dts
 
 [34mCLI[39m Building entry: src/index.ts

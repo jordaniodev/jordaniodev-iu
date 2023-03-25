@@ -1,4 +1,4 @@
-import { Button, Text, ToolTip, ToolTipProps } from '@jordanio-ignite-iu/react'
+import { Button, Text, ToolTip, ToolTipProps } from '@jordanio-iu/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

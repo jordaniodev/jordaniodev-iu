@@ -1,5 +1,5 @@
 
-> @jordanio-ignite-iu/react@2.0.0 build
+> @jordanio-iu/react@2.0.0 build
 > tsup src/index.tsx --format esm,cjs --dts --external react
 
 [34mCLI[39m Building entry: src/index.tsx

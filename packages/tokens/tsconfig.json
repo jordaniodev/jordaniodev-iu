@@ -1,4 +1,4 @@
 {
-  "extends": "@jordanio-ignite-iu/ts-config/base.json",
+  "extends": "@jordanio-iu/ts-config/base.json",
   "include": ["src"]
 }

@@ -1,4 +1,4 @@
-# @jordanio-ignite-iu/tokens
+# @jordanio-iu/tokens
 
 ## 1.1.0
 

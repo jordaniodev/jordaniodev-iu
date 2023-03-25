@@ -1,5 +1,5 @@
 {
-  "name": "@jordanio-ignite-iu/docs",
+  "name": "@jordanio-iu/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,10 +29,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@jordanio-ignite-iu/eslint-config": "*",
-    "@jordanio-ignite-iu/react": "*",
-    "@jordanio-ignite-iu/tokens": "*",
-    "@jordanio-ignite-iu/ts-config": "*",
+    "@jordanio-iu/eslint-config": "*",
+    "@jordanio-iu/react": "*",
+    "@jordanio-iu/tokens": "*",
+    "@jordanio-iu/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

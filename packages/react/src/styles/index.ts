@@ -5,8 +5,8 @@ import {
   fontWeights,
   lineHeights,
   radii,
-  space,
-} from '@jordanio-ignite-iu/tokens'
+  space
+} from '@jordanio-iu/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
