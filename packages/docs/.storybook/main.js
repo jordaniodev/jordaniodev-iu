@@ -18,7 +18,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/storybook-deployer/'
+      config.base = '/jordaniodev-iu/'
     }
 
     return config
